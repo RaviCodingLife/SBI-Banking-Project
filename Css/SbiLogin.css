@@ -1,0 +1,151 @@
+#img1{
+    float:left; 
+}
+#img2{
+    float: right;
+}
+nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#273c75;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  .nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .nav a:hover {
+    background-color: #111;
+  }
+  #l1 a:hover{
+      background-color: yellowgreen;
+  }
+  #p1{
+     float: left;
+     margin-top: 14px;
+     color: #273c75;
+  }
+  #p2{
+      float: right;
+  }
+  #div{
+      background-color: rgb(198, 245, 248);
+      height: 50px;
+  }
+  #div1{
+    width: 1100px;
+    height: 400px;
+    box-shadow: 0 0 10px chocolate;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr;
+  }
+  #d1{
+      margin-top: 18px;
+      float: left;
+      margin-left: 10px;
+  }
+  #del{
+    width: 20px;
+    height: 20px;
+    box-shadow: 0 0 10px chocolate;
+    background-color: aquamarine;
+    font-size: 30px;  
+  }
+  #para a{
+     text-decoration: none;
+     color: #273c75;
+  }
+  #para a:hover{
+      text-decoration: underline;
+  }
+  .button{
+    border: 1 solid aqua;
+    background-color: #273c75;
+    border-radius: 5px;
+    color: cornsilk;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  #div2{
+      margin-top: 130px;
+  }
+  #div2 a{
+      text-decoration: none;
+      color: #273c75;
+  }
+  #div2 a:hover{
+      text-decoration: underline;
+  }
+  #div3{
+    width: 1100px;
+    height: 340px;
+    box-shadow: 0 0 10px chocolate;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr;
+  }
+  #d2{
+    width: 300px;
+    height: 240px;
+    box-shadow: 0 0 10px chocolate;
+    margin: 50px auto;
+    float: left;
+    text-align: center;
+  }
+  #d3{
+    width: 300px;
+    height: 240px;
+    box-shadow: 0 0 10px chocolate;
+    margin: 50px auto;
+    text-align: center;
+  }
+  #d4{
+    width: 300px;
+    height: 240px;
+    box-shadow: 0 0 10px chocolate;
+    margin: 50px auto;
+    float: right;
+    text-align: center;
+  }
+  #d3 a{
+    text-decoration: none;
+    color: #273c75;
+  }
+  #d3 a:hover{
+    text-decoration: underline;
+  }
+  #div4{
+    width:1503px ;
+    height:100px ;
+    background-color: aquamarine;
+  }
+  #footer{
+    background-color: #273c75;
+    color: white;
+    height:30px;
+    text-align: center;
+}
+#s1{
+   float: left;
+}
+#s2{
+   float: right;
+}
+#s2 a{
+    text-decoration: none;
+    color: white;
+}
+#s2 a:hover{
+    text-decoration: underline;
+}

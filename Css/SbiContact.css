@@ -1,0 +1,114 @@
+#img1{
+    float:left; 
+}
+#img2{
+    float: right;
+}
+nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#273c75;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  .nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .nav a:hover {
+    background-color: #111;
+  }
+  #l1 a:hover{
+      background-color: yellowgreen;
+  }
+  #footer{
+    background-color: #273c75;
+    color: white;
+    height:30px;
+    text-align: center;
+}
+#div{
+    width:700px ;
+    height:650px ;
+    float: left;
+    text-align: left;
+    box-shadow: 0 0 10px chocolate;
+    margin-top: 30px;
+    margin-left: 30px;
+  }
+  p{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+  }
+  #para{
+      float: right;
+  }
+  #div1{
+    width: 1503px;
+    height: 700px;
+    box-shadow: 0 0 10px chocolate;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+  }
+  #div2{
+    width:700px ;
+    height:650px ;
+    float: right;
+    text-align: left;
+    box-shadow: 0 0 10px chocolate;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 20px;
+  }
+  p{
+    text-align: left;
+    margin-left: 15px;
+  }
+  h4{
+    text-align: left;
+    margin-left: 15px;
+    font-size: 22px;
+  }
+  p a{
+    text-decoration: none;
+    color: #273c75;
+  }
+  p a:hover{
+    text-decoration: underline;
+    color: crimson;
+  }
+  .h3{
+     margin-left: 15px;
+  }
+  iframe{
+    margin-top: 10px;
+    margin-left: 110px;
+    margin-bottom: 20px;
+  }
+  h5 a{
+    text-decoration: none;
+    color: #273c75;
+  }
+  h5 a:hover{
+    text-decoration: underline;
+    color: crimson;
+  }
+  h5{
+    font-size: 18px;
+  }
+  marquee{
+      margin-top: -45px;
+  }

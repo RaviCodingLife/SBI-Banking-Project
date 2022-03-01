@@ -1,0 +1,227 @@
+#img1{
+    float:left; 
+}
+#img2{
+    float: right;
+}
+nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#273c75;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  .nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .nav a:hover {
+    background-color: #111;
+  }
+#div{
+  width: 1503px;
+  height: 380px;
+  margin: 50px auto;
+  box-shadow: 0 0 10px chocolate;
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr;
+}
+
+#div1{
+  box-shadow: 0 0 10px chocolate;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  height: 350px;
+  background-color: rgb(234, 248, 248);
+}
+#header{
+  box-shadow: 0 0 10px chocolate;
+  background-color: yellow;
+  height: 45px;
+  text-align: center;
+}
+.para{
+  margin-top: -10px;
+}
+#b1{
+  box-shadow: 0 0 10px chocolate;
+}
+#f1{
+  box-shadow: 0 0 10px chocolate;
+  background-color: yellow;
+  height: 30px;
+  text-align: center;
+}
+#f1 a{
+  text-decoration: none;
+  color: #273c75;
+}
+#f1 a:hover{
+  text-decoration: underline;
+  color: red;
+}
+
+#div2{
+  box-shadow: 0 0 10px chocolate;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  height: 350px;
+  background-color: rgb(234, 248, 248);
+}
+#header1{
+  box-shadow: 0 0 10px chocolate;
+  background-color: yellow;
+  height: 45px;
+  text-align: center;
+}
+#b2{
+  box-shadow: 0 0 10px chocolate;
+}
+#f2{
+  box-shadow: 0 0 10px chocolate;
+  background-color: yellow;
+  height: 30px;
+  text-align: center;
+}
+#f2 a{
+  text-decoration: none;
+  color: #273c75;
+}
+#f2 a:hover{
+  text-decoration: underline;
+  color: red;
+}
+
+#div3{
+  box-shadow: 0 0 10px chocolate;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: left;
+  height: 360px;
+  background-color: rgb(234, 248, 248);
+}
+#header2{
+  box-shadow: 0 0 10px chocolate;
+  background-color: yellow;
+  height: 55px;
+  text-align: center;
+}
+#b3{
+  box-shadow: 0 0 10px chocolate;
+  text-align: left;
+}
+#f3{
+  box-shadow: 0 0 10px chocolate;
+  background-color: yellow;
+  height: 30px;
+  text-align: center;
+}
+#f3 a{
+  text-decoration: none;
+  color: #273c75;
+}
+#f3 a:hover{
+  text-decoration: underline;
+  color: red;
+}
+#para1{
+  margin-top: -10px;
+}
+
+#div4{
+  box-shadow: 0 0 10px chocolate;
+  margin-top: 3px;
+  width: 1503px;
+  height: 150px;
+  background-color: rgb(234, 248, 248);
+}
+#heading{
+  box-shadow: 0 0 10px chocolate;
+  background-color: yellow;
+  text-align: center;
+  width: 190px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.span{
+  box-shadow: 0 0 15px coral ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 180px;
+  height:60px;
+  text-align: center;
+}
+#section{
+  display: grid;
+  grid-template-columns: 1.7fr 1.7fr 1.7fr 1.7fr 1.7fr 1.7fr 1.8fr;
+}
+.span a{
+  text-decoration: none;
+  color: #273c75;
+}
+.span a:hover{
+  text-decoration: underline;
+  color: red;
+}
+#foot{
+  background-color: #273c75;
+  color: white;
+  height:220px;
+  text-align: center; 
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-bottom-color: #111;
+
+}
+#p1{
+  text-align: left;
+  font-size: 23px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#p1 a{
+  text-decoration: none;
+  color: aqua;
+}
+#p1 a:hover{
+  text-decoration: underline;
+  color: red;
+}
+#footer{
+  background-color: #273c75;
+  color: white;
+  height:30px;
+  text-align: center;
+}
+#s1{
+ float: left;
+}
+#s2{
+ float: right;
+}
+#s2 a{
+  text-decoration: none;
+  color: white;
+}
+#s2 a:hover{
+  text-decoration: underline;
+}
